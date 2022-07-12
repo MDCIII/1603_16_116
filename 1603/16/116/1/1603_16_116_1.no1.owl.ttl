@@ -4,6 +4,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 @prefix p: <http://www.wikidata.org/prop/> .
 
 <urn:mdciii:1603:16()>
@@ -28,149 +29,174 @@
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:1" ;
-    skos:prefLabel "Banteay Meanchey"@eng-Latn .
+    skos:prefLabel "Banteay Meanchey"@eng-Latn ;
+    wdata:q7200235 "KH01" .
 
 <urn:mdciii:1603:16:116:1:10>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:10" ;
-    skos:prefLabel "Kratie"@eng-Latn .
+    skos:prefLabel "Kratie"@eng-Latn ;
+    wdata:q7200235 "KH10" .
 
 <urn:mdciii:1603:16:116:1:11>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:11" ;
-    skos:prefLabel "Mondul Kiri"@eng-Latn .
+    skos:prefLabel "Mondul Kiri"@eng-Latn ;
+    wdata:q7200235 "KH11" .
 
 <urn:mdciii:1603:16:116:1:12>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:12" ;
-    skos:prefLabel "Phnom Penh"@eng-Latn .
+    skos:prefLabel "Phnom Penh"@eng-Latn ;
+    wdata:q7200235 "KH12" .
 
 <urn:mdciii:1603:16:116:1:13>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:13" ;
-    skos:prefLabel "Preah Vihear"@eng-Latn .
+    skos:prefLabel "Preah Vihear"@eng-Latn ;
+    wdata:q7200235 "KH13" .
 
 <urn:mdciii:1603:16:116:1:14>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:14" ;
-    skos:prefLabel "Prey Veng"@eng-Latn .
+    skos:prefLabel "Prey Veng"@eng-Latn ;
+    wdata:q7200235 "KH14" .
 
 <urn:mdciii:1603:16:116:1:15>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:15" ;
-    skos:prefLabel "Pursat"@eng-Latn .
+    skos:prefLabel "Pursat"@eng-Latn ;
+    wdata:q7200235 "KH15" .
 
 <urn:mdciii:1603:16:116:1:16>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:16" ;
-    skos:prefLabel "Ratanak Kiri"@eng-Latn .
+    skos:prefLabel "Ratanak Kiri"@eng-Latn ;
+    wdata:q7200235 "KH16" .
 
 <urn:mdciii:1603:16:116:1:17>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:17" ;
-    skos:prefLabel "Siemreap"@eng-Latn .
+    skos:prefLabel "Siemreap"@eng-Latn ;
+    wdata:q7200235 "KH17" .
 
 <urn:mdciii:1603:16:116:1:18>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:18" ;
-    skos:prefLabel "Preah Sihanouk"@eng-Latn .
+    skos:prefLabel "Preah Sihanouk"@eng-Latn ;
+    wdata:q7200235 "KH18" .
 
 <urn:mdciii:1603:16:116:1:19>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:19" ;
-    skos:prefLabel "Stung Treng"@eng-Latn .
+    skos:prefLabel "Stung Treng"@eng-Latn ;
+    wdata:q7200235 "KH19" .
 
 <urn:mdciii:1603:16:116:1:2>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:2" ;
-    skos:prefLabel "Battambang"@eng-Latn .
+    skos:prefLabel "Battambang"@eng-Latn ;
+    wdata:q7200235 "KH02" .
 
 <urn:mdciii:1603:16:116:1:20>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:20" ;
-    skos:prefLabel "Svay Rieng"@eng-Latn .
+    skos:prefLabel "Svay Rieng"@eng-Latn ;
+    wdata:q7200235 "KH20" .
 
 <urn:mdciii:1603:16:116:1:21>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:21" ;
-    skos:prefLabel "Takeo"@eng-Latn .
+    skos:prefLabel "Takeo"@eng-Latn ;
+    wdata:q7200235 "KH21" .
 
 <urn:mdciii:1603:16:116:1:22>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:22" ;
-    skos:prefLabel "Oddar Meanchey"@eng-Latn .
+    skos:prefLabel "Oddar Meanchey"@eng-Latn ;
+    wdata:q7200235 "KH22" .
 
 <urn:mdciii:1603:16:116:1:23>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:23" ;
-    skos:prefLabel "Kep"@eng-Latn .
+    skos:prefLabel "Kep"@eng-Latn ;
+    wdata:q7200235 "KH23" .
 
 <urn:mdciii:1603:16:116:1:24>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:24" ;
-    skos:prefLabel "Pailin"@eng-Latn .
+    skos:prefLabel "Pailin"@eng-Latn ;
+    wdata:q7200235 "KH24" .
 
 <urn:mdciii:1603:16:116:1:25>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:25" ;
-    skos:prefLabel "Tboung Khmum"@eng-Latn .
+    skos:prefLabel "Tboung Khmum"@eng-Latn ;
+    wdata:q7200235 "KH25" .
 
 <urn:mdciii:1603:16:116:1:3>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:3" ;
-    skos:prefLabel "Kampong Cham"@eng-Latn .
+    skos:prefLabel "Kampong Cham"@eng-Latn ;
+    wdata:q7200235 "KH03" .
 
 <urn:mdciii:1603:16:116:1:4>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:4" ;
-    skos:prefLabel "Kampong Chhnang"@eng-Latn .
+    skos:prefLabel "Kampong Chhnang"@eng-Latn ;
+    wdata:q7200235 "KH04" .
 
 <urn:mdciii:1603:16:116:1:5>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:5" ;
-    skos:prefLabel "Kampong Speu"@eng-Latn .
+    skos:prefLabel "Kampong Speu"@eng-Latn ;
+    wdata:q7200235 "KH05" .
 
 <urn:mdciii:1603:16:116:1:6>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:6" ;
-    skos:prefLabel "Kampong Thom"@eng-Latn .
+    skos:prefLabel "Kampong Thom"@eng-Latn ;
+    wdata:q7200235 "KH06" .
 
 <urn:mdciii:1603:16:116:1:7>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:7" ;
-    skos:prefLabel "Kampot"@eng-Latn .
+    skos:prefLabel "Kampot"@eng-Latn ;
+    wdata:q7200235 "KH07" .
 
 <urn:mdciii:1603:16:116:1:8>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:8" ;
-    skos:prefLabel "Kandal"@eng-Latn .
+    skos:prefLabel "Kandal"@eng-Latn ;
+    wdata:q7200235 "KH08" .
 
 <urn:mdciii:1603:16:116:1:9>
     obo:BFO_0000124 <urn:mcdiii:1603:16:116:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:116:1:9" ;
-    skos:prefLabel "Koh Kong"@eng-Latn .
+    skos:prefLabel "Koh Kong"@eng-Latn ;
+    wdata:q7200235 "KH09" .
 
