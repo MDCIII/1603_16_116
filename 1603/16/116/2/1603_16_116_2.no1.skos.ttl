@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:116()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:102" ;
     skos:prefLabel "Mongkol Borei"@eng-Latn ;
-    wdata:q7200235 "KH0102" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -236,7 +234,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1001" ;
     skos:prefLabel "Chhloung"@eng-Latn ;
-    wdata:q7200235 "KH1001" ;
 .
 
 <urn:mdciii:1603:16:116:2:1002>
@@ -245,7 +242,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1002" ;
     skos:prefLabel "Kracheh"@eng-Latn ;
-    wdata:q7200235 "KH1002" ;
 .
 
 <urn:mdciii:1603:16:116:2:1003>
@@ -254,7 +250,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1003" ;
     skos:prefLabel "Prek Prasab"@eng-Latn ;
-    wdata:q7200235 "KH1003" ;
 .
 
 <urn:mdciii:1603:16:116:2:1004>
@@ -263,7 +258,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1004" ;
     skos:prefLabel "Sambour"@eng-Latn ;
-    wdata:q7200235 "KH1004" ;
 .
 
 <urn:mdciii:1603:16:116:2:1005>
@@ -272,7 +266,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1005" ;
     skos:prefLabel "Snuol"@eng-Latn ;
-    wdata:q7200235 "KH1005" ;
 .
 
 <urn:mdciii:1603:16:116:2:1006>
@@ -281,7 +274,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1006" ;
     skos:prefLabel "Chetr Borei"@eng-Latn ;
-    wdata:q7200235 "KH1006" ;
 .
 
 <urn:mdciii:1603:16:116:2:103>
@@ -290,7 +282,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:103" ;
     skos:prefLabel "Phnum Srok"@eng-Latn ;
-    wdata:q7200235 "KH0103" ;
 .
 
 <urn:mdciii:1603:16:116:2:104>
@@ -299,7 +290,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:104" ;
     skos:prefLabel "Preah Netr Preah"@eng-Latn ;
-    wdata:q7200235 "KH0104" ;
 .
 
 <urn:mdciii:1603:16:116:2:105>
@@ -308,7 +298,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:105" ;
     skos:prefLabel "Ou Chrov"@eng-Latn ;
-    wdata:q7200235 "KH0105" ;
 .
 
 <urn:mdciii:1603:16:116:2:106>
@@ -317,7 +306,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:106" ;
     skos:prefLabel "Serei Saophoan"@eng-Latn ;
-    wdata:q7200235 "KH0106" ;
 .
 
 <urn:mdciii:1603:16:116:2:107>
@@ -326,7 +314,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:107" ;
     skos:prefLabel "Thma Puok"@eng-Latn ;
-    wdata:q7200235 "KH0107" ;
 .
 
 <urn:mdciii:1603:16:116:2:108>
@@ -335,7 +322,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:108" ;
     skos:prefLabel "Svay Chek"@eng-Latn ;
-    wdata:q7200235 "KH0108" ;
 .
 
 <urn:mdciii:1603:16:116:2:109>
@@ -344,7 +330,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:109" ;
     skos:prefLabel "Malai"@eng-Latn ;
-    wdata:q7200235 "KH0109" ;
 .
 
 <urn:mdciii:1603:16:116:2:110>
@@ -353,7 +338,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:110" ;
     skos:prefLabel "Paoy Paet"@eng-Latn ;
-    wdata:q7200235 "KH0110" ;
 .
 
 <urn:mdciii:1603:16:116:2:1101>
@@ -362,7 +346,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1101" ;
     skos:prefLabel "Kaev Seima"@eng-Latn ;
-    wdata:q7200235 "KH1101" ;
 .
 
 <urn:mdciii:1603:16:116:2:1102>
@@ -371,7 +354,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1102" ;
     skos:prefLabel "Kaoh Nheaek"@eng-Latn ;
-    wdata:q7200235 "KH1102" ;
 .
 
 <urn:mdciii:1603:16:116:2:1103>
@@ -380,7 +362,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1103" ;
     skos:prefLabel "Ou Reang"@eng-Latn ;
-    wdata:q7200235 "KH1103" ;
 .
 
 <urn:mdciii:1603:16:116:2:1104>
@@ -389,7 +370,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1104" ;
     skos:prefLabel "Pech Chreada"@eng-Latn ;
-    wdata:q7200235 "KH1104" ;
 .
 
 <urn:mdciii:1603:16:116:2:1105>
@@ -398,7 +378,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1105" ;
     skos:prefLabel "Saen Monourom"@eng-Latn ;
-    wdata:q7200235 "KH1105" ;
 .
 
 <urn:mdciii:1603:16:116:2:1201>
@@ -407,7 +386,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1201" ;
     skos:prefLabel "Chamkar Mon"@eng-Latn ;
-    wdata:q7200235 "KH1201" ;
 .
 
 <urn:mdciii:1603:16:116:2:1202>
@@ -416,7 +394,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1202" ;
     skos:prefLabel "Doun Penh"@eng-Latn ;
-    wdata:q7200235 "KH1202" ;
 .
 
 <urn:mdciii:1603:16:116:2:1203>
@@ -425,7 +402,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1203" ;
     skos:prefLabel "Prampir Meakkakra"@eng-Latn ;
-    wdata:q7200235 "KH1203" ;
 .
 
 <urn:mdciii:1603:16:116:2:1204>
@@ -434,7 +410,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1204" ;
     skos:prefLabel "Tuol Kouk"@eng-Latn ;
-    wdata:q7200235 "KH1204" ;
 .
 
 <urn:mdciii:1603:16:116:2:1205>
@@ -443,7 +418,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1205" ;
     skos:prefLabel "Dangkao"@eng-Latn ;
-    wdata:q7200235 "KH1205" ;
 .
 
 <urn:mdciii:1603:16:116:2:1206>
@@ -452,7 +426,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1206" ;
     skos:prefLabel "Mean Chey"@eng-Latn ;
-    wdata:q7200235 "KH1206" ;
 .
 
 <urn:mdciii:1603:16:116:2:1207>
@@ -461,7 +434,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1207" ;
     skos:prefLabel "Russey Keo"@eng-Latn ;
-    wdata:q7200235 "KH1207" ;
 .
 
 <urn:mdciii:1603:16:116:2:1208>
@@ -470,7 +442,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1208" ;
     skos:prefLabel "Saensokh"@eng-Latn ;
-    wdata:q7200235 "KH1208" ;
 .
 
 <urn:mdciii:1603:16:116:2:1209>
@@ -479,7 +450,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1209" ;
     skos:prefLabel "Pur SenChey"@eng-Latn ;
-    wdata:q7200235 "KH1209" ;
 .
 
 <urn:mdciii:1603:16:116:2:1210>
@@ -488,7 +458,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1210" ;
     skos:prefLabel "Chraoy Chongvar"@eng-Latn ;
-    wdata:q7200235 "KH1210" ;
 .
 
 <urn:mdciii:1603:16:116:2:1211>
@@ -497,7 +466,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1211" ;
     skos:prefLabel "Praek Pnov"@eng-Latn ;
-    wdata:q7200235 "KH1211" ;
 .
 
 <urn:mdciii:1603:16:116:2:1212>
@@ -506,7 +474,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1212" ;
     skos:prefLabel "Chbar Ampov"@eng-Latn ;
-    wdata:q7200235 "KH1212" ;
 .
 
 <urn:mdciii:1603:16:116:2:1301>
@@ -515,7 +482,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1301" ;
     skos:prefLabel "Chey Saen"@eng-Latn ;
-    wdata:q7200235 "KH1301" ;
 .
 
 <urn:mdciii:1603:16:116:2:1302>
@@ -524,7 +490,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1302" ;
     skos:prefLabel "Chhaeb"@eng-Latn ;
-    wdata:q7200235 "KH1302" ;
 .
 
 <urn:mdciii:1603:16:116:2:1303>
@@ -533,7 +498,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1303" ;
     skos:prefLabel "Choam Ksant"@eng-Latn ;
-    wdata:q7200235 "KH1303" ;
 .
 
 <urn:mdciii:1603:16:116:2:1304>
@@ -542,7 +506,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1304" ;
     skos:prefLabel "Kuleaen"@eng-Latn ;
-    wdata:q7200235 "KH1304" ;
 .
 
 <urn:mdciii:1603:16:116:2:1305>
@@ -551,7 +514,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1305" ;
     skos:prefLabel "Rovieng"@eng-Latn ;
-    wdata:q7200235 "KH1305" ;
 .
 
 <urn:mdciii:1603:16:116:2:1306>
@@ -560,7 +522,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1306" ;
     skos:prefLabel "Sangkum Thmei"@eng-Latn ;
-    wdata:q7200235 "KH1306" ;
 .
 
 <urn:mdciii:1603:16:116:2:1307>
@@ -569,7 +530,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1307" ;
     skos:prefLabel "Tbaeng Mean Chey"@eng-Latn ;
-    wdata:q7200235 "KH1307" ;
 .
 
 <urn:mdciii:1603:16:116:2:1308>
@@ -578,7 +538,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1308" ;
     skos:prefLabel "Preah Vihear"@eng-Latn ;
-    wdata:q7200235 "KH1308" ;
 .
 
 <urn:mdciii:1603:16:116:2:1401>
@@ -587,7 +546,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1401" ;
     skos:prefLabel "Ba Phnum"@eng-Latn ;
-    wdata:q7200235 "KH1401" ;
 .
 
 <urn:mdciii:1603:16:116:2:1402>
@@ -596,7 +554,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1402" ;
     skos:prefLabel "Kamchay Mear"@eng-Latn ;
-    wdata:q7200235 "KH1402" ;
 .
 
 <urn:mdciii:1603:16:116:2:1403>
@@ -605,7 +562,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1403" ;
     skos:prefLabel "Kampong Trabaek"@eng-Latn ;
-    wdata:q7200235 "KH1403" ;
 .
 
 <urn:mdciii:1603:16:116:2:1404>
@@ -614,7 +570,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1404" ;
     skos:prefLabel "Kanhchriech"@eng-Latn ;
-    wdata:q7200235 "KH1404" ;
 .
 
 <urn:mdciii:1603:16:116:2:1405>
@@ -623,7 +578,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1405" ;
     skos:prefLabel "Me Sang"@eng-Latn ;
-    wdata:q7200235 "KH1405" ;
 .
 
 <urn:mdciii:1603:16:116:2:1406>
@@ -632,7 +586,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1406" ;
     skos:prefLabel "Peam Chor"@eng-Latn ;
-    wdata:q7200235 "KH1406" ;
 .
 
 <urn:mdciii:1603:16:116:2:1407>
@@ -641,7 +594,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1407" ;
     skos:prefLabel "Peam Ro"@eng-Latn ;
-    wdata:q7200235 "KH1407" ;
 .
 
 <urn:mdciii:1603:16:116:2:1408>
@@ -650,7 +602,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1408" ;
     skos:prefLabel "Pea Reang"@eng-Latn ;
-    wdata:q7200235 "KH1408" ;
 .
 
 <urn:mdciii:1603:16:116:2:1409>
@@ -659,7 +610,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1409" ;
     skos:prefLabel "Preah Sdach"@eng-Latn ;
-    wdata:q7200235 "KH1409" ;
 .
 
 <urn:mdciii:1603:16:116:2:1410>
@@ -668,7 +618,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1410" ;
     skos:prefLabel "Prey Veng"@eng-Latn ;
-    wdata:q7200235 "KH1410" ;
 .
 
 <urn:mdciii:1603:16:116:2:1411>
@@ -677,7 +626,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1411" ;
     skos:prefLabel "Pur Rieng"@eng-Latn ;
-    wdata:q7200235 "KH1411" ;
 .
 
 <urn:mdciii:1603:16:116:2:1412>
@@ -686,7 +634,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1412" ;
     skos:prefLabel "Sithor Kandal"@eng-Latn ;
-    wdata:q7200235 "KH1412" ;
 .
 
 <urn:mdciii:1603:16:116:2:1413>
@@ -695,7 +642,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1413" ;
     skos:prefLabel "Svay Antor"@eng-Latn ;
-    wdata:q7200235 "KH1413" ;
 .
 
 <urn:mdciii:1603:16:116:2:1501>
@@ -704,7 +650,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1501" ;
     skos:prefLabel "Bakan"@eng-Latn ;
-    wdata:q7200235 "KH1501" ;
 .
 
 <urn:mdciii:1603:16:116:2:1502>
@@ -713,7 +658,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1502" ;
     skos:prefLabel "Kandieng"@eng-Latn ;
-    wdata:q7200235 "KH1502" ;
 .
 
 <urn:mdciii:1603:16:116:2:1503>
@@ -722,7 +666,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1503" ;
     skos:prefLabel "Krakor"@eng-Latn ;
-    wdata:q7200235 "KH1503" ;
 .
 
 <urn:mdciii:1603:16:116:2:1504>
@@ -731,7 +674,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1504" ;
     skos:prefLabel "Phnum Kravanh"@eng-Latn ;
-    wdata:q7200235 "KH1504" ;
 .
 
 <urn:mdciii:1603:16:116:2:1505>
@@ -740,7 +682,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1505" ;
     skos:prefLabel "Pursat"@eng-Latn ;
-    wdata:q7200235 "KH1505" ;
 .
 
 <urn:mdciii:1603:16:116:2:1506>
@@ -749,7 +690,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1506" ;
     skos:prefLabel "Veal Veaeng"@eng-Latn ;
-    wdata:q7200235 "KH1506" ;
 .
 
 <urn:mdciii:1603:16:116:2:1601>
@@ -758,7 +698,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1601" ;
     skos:prefLabel "Andoung Meas"@eng-Latn ;
-    wdata:q7200235 "KH1601" ;
 .
 
 <urn:mdciii:1603:16:116:2:1602>
@@ -767,7 +706,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1602" ;
     skos:prefLabel "Ban Lung"@eng-Latn ;
-    wdata:q7200235 "KH1602" ;
 .
 
 <urn:mdciii:1603:16:116:2:1603>
@@ -776,7 +714,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1603" ;
     skos:prefLabel "Bar Kaev"@eng-Latn ;
-    wdata:q7200235 "KH1603" ;
 .
 
 <urn:mdciii:1603:16:116:2:1604>
@@ -785,7 +722,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1604" ;
     skos:prefLabel "Koun Mom"@eng-Latn ;
-    wdata:q7200235 "KH1604" ;
 .
 
 <urn:mdciii:1603:16:116:2:1605>
@@ -794,7 +730,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1605" ;
     skos:prefLabel "Lumphat"@eng-Latn ;
-    wdata:q7200235 "KH1605" ;
 .
 
 <urn:mdciii:1603:16:116:2:1606>
@@ -803,7 +738,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1606" ;
     skos:prefLabel "Ou Chum"@eng-Latn ;
-    wdata:q7200235 "KH1606" ;
 .
 
 <urn:mdciii:1603:16:116:2:1607>
@@ -812,7 +746,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1607" ;
     skos:prefLabel "Ou Ya Dav"@eng-Latn ;
-    wdata:q7200235 "KH1607" ;
 .
 
 <urn:mdciii:1603:16:116:2:1608>
@@ -821,7 +754,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1608" ;
     skos:prefLabel "Ta Veaeng"@eng-Latn ;
-    wdata:q7200235 "KH1608" ;
 .
 
 <urn:mdciii:1603:16:116:2:1609>
@@ -830,7 +762,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1609" ;
     skos:prefLabel "Veun Sai"@eng-Latn ;
-    wdata:q7200235 "KH1609" ;
 .
 
 <urn:mdciii:1603:16:116:2:1701>
@@ -839,7 +770,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1701" ;
     skos:prefLabel "Angkor Chum"@eng-Latn ;
-    wdata:q7200235 "KH1701" ;
 .
 
 <urn:mdciii:1603:16:116:2:1702>
@@ -848,7 +778,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1702" ;
     skos:prefLabel "Angkor Thum"@eng-Latn ;
-    wdata:q7200235 "KH1702" ;
 .
 
 <urn:mdciii:1603:16:116:2:1703>
@@ -857,7 +786,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1703" ;
     skos:prefLabel "Banteay Srei"@eng-Latn ;
-    wdata:q7200235 "KH1703" ;
 .
 
 <urn:mdciii:1603:16:116:2:1704>
@@ -866,7 +794,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1704" ;
     skos:prefLabel "Chi Kraeng"@eng-Latn ;
-    wdata:q7200235 "KH1704" ;
 .
 
 <urn:mdciii:1603:16:116:2:1706>
@@ -875,7 +802,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1706" ;
     skos:prefLabel "Kralanh"@eng-Latn ;
-    wdata:q7200235 "KH1706" ;
 .
 
 <urn:mdciii:1603:16:116:2:1707>
@@ -884,7 +810,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1707" ;
     skos:prefLabel "Puok"@eng-Latn ;
-    wdata:q7200235 "KH1707" ;
 .
 
 <urn:mdciii:1603:16:116:2:1709>
@@ -893,7 +818,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1709" ;
     skos:prefLabel "Prasat Bakong"@eng-Latn ;
-    wdata:q7200235 "KH1709" ;
 .
 
 <urn:mdciii:1603:16:116:2:1710>
@@ -902,7 +826,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1710" ;
     skos:prefLabel "Siem Reap"@eng-Latn ;
-    wdata:q7200235 "KH1710" ;
 .
 
 <urn:mdciii:1603:16:116:2:1711>
@@ -911,7 +834,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1711" ;
     skos:prefLabel "Soutr Nikom"@eng-Latn ;
-    wdata:q7200235 "KH1711" ;
 .
 
 <urn:mdciii:1603:16:116:2:1712>
@@ -920,7 +842,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1712" ;
     skos:prefLabel "Srei Snam"@eng-Latn ;
-    wdata:q7200235 "KH1712" ;
 .
 
 <urn:mdciii:1603:16:116:2:1713>
@@ -929,7 +850,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1713" ;
     skos:prefLabel "Svay Leu"@eng-Latn ;
-    wdata:q7200235 "KH1713" ;
 .
 
 <urn:mdciii:1603:16:116:2:1714>
@@ -938,7 +858,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1714" ;
     skos:prefLabel "Varin"@eng-Latn ;
-    wdata:q7200235 "KH1714" ;
 .
 
 <urn:mdciii:1603:16:116:2:1801>
@@ -947,7 +866,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1801" ;
     skos:prefLabel "Preah Sihanouk"@eng-Latn ;
-    wdata:q7200235 "KH1801" ;
 .
 
 <urn:mdciii:1603:16:116:2:1802>
@@ -956,7 +874,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1802" ;
     skos:prefLabel "Prey Nob"@eng-Latn ;
-    wdata:q7200235 "KH1802" ;
 .
 
 <urn:mdciii:1603:16:116:2:1803>
@@ -965,7 +882,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1803" ;
     skos:prefLabel "Stueng Hav"@eng-Latn ;
-    wdata:q7200235 "KH1803" ;
 .
 
 <urn:mdciii:1603:16:116:2:1804>
@@ -974,7 +890,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1804" ;
     skos:prefLabel "Kampong Seila"@eng-Latn ;
-    wdata:q7200235 "KH1804" ;
 .
 
 <urn:mdciii:1603:16:116:2:1901>
@@ -983,7 +898,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1901" ;
     skos:prefLabel "Sesan"@eng-Latn ;
-    wdata:q7200235 "KH1901" ;
 .
 
 <urn:mdciii:1603:16:116:2:1902>
@@ -992,7 +906,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1902" ;
     skos:prefLabel "Siem Bouk"@eng-Latn ;
-    wdata:q7200235 "KH1902" ;
 .
 
 <urn:mdciii:1603:16:116:2:1903>
@@ -1001,7 +914,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1903" ;
     skos:prefLabel "Siem Pang"@eng-Latn ;
-    wdata:q7200235 "KH1903" ;
 .
 
 <urn:mdciii:1603:16:116:2:1904>
@@ -1010,7 +922,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1904" ;
     skos:prefLabel "Stueng Traeng"@eng-Latn ;
-    wdata:q7200235 "KH1904" ;
 .
 
 <urn:mdciii:1603:16:116:2:1905>
@@ -1019,7 +930,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:1905" ;
     skos:prefLabel "Thala Barivat"@eng-Latn ;
-    wdata:q7200235 "KH1905" ;
 .
 
 <urn:mdciii:1603:16:116:2:2001>
@@ -1028,7 +938,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2001" ;
     skos:prefLabel "Chantrea"@eng-Latn ;
-    wdata:q7200235 "KH2001" ;
 .
 
 <urn:mdciii:1603:16:116:2:2002>
@@ -1037,7 +946,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2002" ;
     skos:prefLabel "Kampong Rou"@eng-Latn ;
-    wdata:q7200235 "KH2002" ;
 .
 
 <urn:mdciii:1603:16:116:2:2003>
@@ -1046,7 +954,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2003" ;
     skos:prefLabel "Rumduol"@eng-Latn ;
-    wdata:q7200235 "KH2003" ;
 .
 
 <urn:mdciii:1603:16:116:2:2004>
@@ -1055,7 +962,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2004" ;
     skos:prefLabel "Romeas Haek"@eng-Latn ;
-    wdata:q7200235 "KH2004" ;
 .
 
 <urn:mdciii:1603:16:116:2:2005>
@@ -1064,7 +970,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2005" ;
     skos:prefLabel "Svay Chrum"@eng-Latn ;
-    wdata:q7200235 "KH2005" ;
 .
 
 <urn:mdciii:1603:16:116:2:2006>
@@ -1073,7 +978,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2006" ;
     skos:prefLabel "Svay Rieng"@eng-Latn ;
-    wdata:q7200235 "KH2006" ;
 .
 
 <urn:mdciii:1603:16:116:2:2007>
@@ -1082,7 +986,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2007" ;
     skos:prefLabel "Svay Teab"@eng-Latn ;
-    wdata:q7200235 "KH2007" ;
 .
 
 <urn:mdciii:1603:16:116:2:2008>
@@ -1091,7 +994,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2008" ;
     skos:prefLabel "Bavet"@eng-Latn ;
-    wdata:q7200235 "KH2008" ;
 .
 
 <urn:mdciii:1603:16:116:2:201>
@@ -1100,7 +1002,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:201" ;
     skos:prefLabel "Banan"@eng-Latn ;
-    wdata:q7200235 "KH0201" ;
 .
 
 <urn:mdciii:1603:16:116:2:202>
@@ -1109,7 +1010,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:202" ;
     skos:prefLabel "Thma Koul"@eng-Latn ;
-    wdata:q7200235 "KH0202" ;
 .
 
 <urn:mdciii:1603:16:116:2:203>
@@ -1118,7 +1018,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:203" ;
     skos:prefLabel "Battambang"@eng-Latn ;
-    wdata:q7200235 "KH0203" ;
 .
 
 <urn:mdciii:1603:16:116:2:204>
@@ -1127,7 +1026,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:204" ;
     skos:prefLabel "Bavel"@eng-Latn ;
-    wdata:q7200235 "KH0204" ;
 .
 
 <urn:mdciii:1603:16:116:2:205>
@@ -1136,7 +1034,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:205" ;
     skos:prefLabel "Aek Phnum"@eng-Latn ;
-    wdata:q7200235 "KH0205" ;
 .
 
 <urn:mdciii:1603:16:116:2:206>
@@ -1145,7 +1042,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:206" ;
     skos:prefLabel "Moung Ruessei"@eng-Latn ;
-    wdata:q7200235 "KH0206" ;
 .
 
 <urn:mdciii:1603:16:116:2:207>
@@ -1154,7 +1050,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:207" ;
     skos:prefLabel "Rotonak Mondol"@eng-Latn ;
-    wdata:q7200235 "KH0207" ;
 .
 
 <urn:mdciii:1603:16:116:2:208>
@@ -1163,7 +1058,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:208" ;
     skos:prefLabel "Sangkae"@eng-Latn ;
-    wdata:q7200235 "KH0208" ;
 .
 
 <urn:mdciii:1603:16:116:2:209>
@@ -1172,7 +1066,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:209" ;
     skos:prefLabel "Samlout"@eng-Latn ;
-    wdata:q7200235 "KH0209" ;
 .
 
 <urn:mdciii:1603:16:116:2:210>
@@ -1181,7 +1074,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:210" ;
     skos:prefLabel "Sampov Lun"@eng-Latn ;
-    wdata:q7200235 "KH0210" ;
 .
 
 <urn:mdciii:1603:16:116:2:2101>
@@ -1190,7 +1082,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2101" ;
     skos:prefLabel "Angkor Borei"@eng-Latn ;
-    wdata:q7200235 "KH2101" ;
 .
 
 <urn:mdciii:1603:16:116:2:2102>
@@ -1199,7 +1090,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2102" ;
     skos:prefLabel "Bati"@eng-Latn ;
-    wdata:q7200235 "KH2102" ;
 .
 
 <urn:mdciii:1603:16:116:2:2103>
@@ -1208,7 +1098,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2103" ;
     skos:prefLabel "Borei Cholsar"@eng-Latn ;
-    wdata:q7200235 "KH2103" ;
 .
 
 <urn:mdciii:1603:16:116:2:2104>
@@ -1217,7 +1106,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2104" ;
     skos:prefLabel "Kiri Vong"@eng-Latn ;
-    wdata:q7200235 "KH2104" ;
 .
 
 <urn:mdciii:1603:16:116:2:2105>
@@ -1226,7 +1114,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2105" ;
     skos:prefLabel "Kaoh Andaet"@eng-Latn ;
-    wdata:q7200235 "KH2105" ;
 .
 
 <urn:mdciii:1603:16:116:2:2106>
@@ -1235,7 +1122,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2106" ;
     skos:prefLabel "Prey Kabbas"@eng-Latn ;
-    wdata:q7200235 "KH2106" ;
 .
 
 <urn:mdciii:1603:16:116:2:2107>
@@ -1244,7 +1130,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2107" ;
     skos:prefLabel "Samraong"@eng-Latn ;
-    wdata:q7200235 "KH2107" ;
 .
 
 <urn:mdciii:1603:16:116:2:2108>
@@ -1253,7 +1138,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2108" ;
     skos:prefLabel "Doun Kaev"@eng-Latn ;
-    wdata:q7200235 "KH2108" ;
 .
 
 <urn:mdciii:1603:16:116:2:2109>
@@ -1262,7 +1146,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2109" ;
     skos:prefLabel "Tram Kak"@eng-Latn ;
-    wdata:q7200235 "KH2109" ;
 .
 
 <urn:mdciii:1603:16:116:2:211>
@@ -1271,7 +1154,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:211" ;
     skos:prefLabel "Phnum Proek"@eng-Latn ;
-    wdata:q7200235 "KH0211" ;
 .
 
 <urn:mdciii:1603:16:116:2:2110>
@@ -1280,7 +1162,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2110" ;
     skos:prefLabel "Treang"@eng-Latn ;
-    wdata:q7200235 "KH2110" ;
 .
 
 <urn:mdciii:1603:16:116:2:212>
@@ -1289,7 +1170,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:212" ;
     skos:prefLabel "Kamrieng"@eng-Latn ;
-    wdata:q7200235 "KH0212" ;
 .
 
 <urn:mdciii:1603:16:116:2:213>
@@ -1298,7 +1178,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:213" ;
     skos:prefLabel "Koas Krala"@eng-Latn ;
-    wdata:q7200235 "KH0213" ;
 .
 
 <urn:mdciii:1603:16:116:2:214>
@@ -1307,7 +1186,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:214" ;
     skos:prefLabel "Rukh Kiri"@eng-Latn ;
-    wdata:q7200235 "KH0214" ;
 .
 
 <urn:mdciii:1603:16:116:2:2201>
@@ -1316,7 +1194,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2201" ;
     skos:prefLabel "Anlong Veaeng"@eng-Latn ;
-    wdata:q7200235 "KH2201" ;
 .
 
 <urn:mdciii:1603:16:116:2:2202>
@@ -1325,7 +1202,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2202" ;
     skos:prefLabel "Banteay Ampil"@eng-Latn ;
-    wdata:q7200235 "KH2202" ;
 .
 
 <urn:mdciii:1603:16:116:2:2203>
@@ -1334,7 +1210,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2203" ;
     skos:prefLabel "Chong Kal"@eng-Latn ;
-    wdata:q7200235 "KH2203" ;
 .
 
 <urn:mdciii:1603:16:116:2:2204>
@@ -1343,7 +1218,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2204" ;
     skos:prefLabel "Samraong"@eng-Latn ;
-    wdata:q7200235 "KH2204" ;
 .
 
 <urn:mdciii:1603:16:116:2:2205>
@@ -1352,7 +1226,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2205" ;
     skos:prefLabel "Trapeang Prasat"@eng-Latn ;
-    wdata:q7200235 "KH2205" ;
 .
 
 <urn:mdciii:1603:16:116:2:2301>
@@ -1361,7 +1234,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2301" ;
     skos:prefLabel "Damnak Chang'aeur"@eng-Latn ;
-    wdata:q7200235 "KH2301" ;
 .
 
 <urn:mdciii:1603:16:116:2:2302>
@@ -1370,7 +1242,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2302" ;
     skos:prefLabel "Kaeb"@eng-Latn ;
-    wdata:q7200235 "KH2302" ;
 .
 
 <urn:mdciii:1603:16:116:2:2401>
@@ -1379,7 +1250,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2401" ;
     skos:prefLabel "Pailin"@eng-Latn ;
-    wdata:q7200235 "KH2401" ;
 .
 
 <urn:mdciii:1603:16:116:2:2402>
@@ -1388,7 +1258,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2402" ;
     skos:prefLabel "Sala Krau"@eng-Latn ;
-    wdata:q7200235 "KH2402" ;
 .
 
 <urn:mdciii:1603:16:116:2:2501>
@@ -1397,7 +1266,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2501" ;
     skos:prefLabel "Dambae"@eng-Latn ;
-    wdata:q7200235 "KH2501" ;
 .
 
 <urn:mdciii:1603:16:116:2:2502>
@@ -1406,7 +1274,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2502" ;
     skos:prefLabel "Krouch Chhmar"@eng-Latn ;
-    wdata:q7200235 "KH2502" ;
 .
 
 <urn:mdciii:1603:16:116:2:2503>
@@ -1415,7 +1282,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2503" ;
     skos:prefLabel "Memot"@eng-Latn ;
-    wdata:q7200235 "KH2503" ;
 .
 
 <urn:mdciii:1603:16:116:2:2504>
@@ -1424,7 +1290,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2504" ;
     skos:prefLabel "Ou Reang Ov"@eng-Latn ;
-    wdata:q7200235 "KH2504" ;
 .
 
 <urn:mdciii:1603:16:116:2:2505>
@@ -1433,7 +1298,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2505" ;
     skos:prefLabel "Ponhea Kraek"@eng-Latn ;
-    wdata:q7200235 "KH2505" ;
 .
 
 <urn:mdciii:1603:16:116:2:2506>
@@ -1442,7 +1306,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2506" ;
     skos:prefLabel "Suong"@eng-Latn ;
-    wdata:q7200235 "KH2506" ;
 .
 
 <urn:mdciii:1603:16:116:2:2507>
@@ -1451,7 +1314,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:2507" ;
     skos:prefLabel "Tboung Khmum"@eng-Latn ;
-    wdata:q7200235 "KH2507" ;
 .
 
 <urn:mdciii:1603:16:116:2:301>
@@ -1460,7 +1322,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:301" ;
     skos:prefLabel "Batheay"@eng-Latn ;
-    wdata:q7200235 "KH0301" ;
 .
 
 <urn:mdciii:1603:16:116:2:302>
@@ -1469,7 +1330,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:302" ;
     skos:prefLabel "Chamkar Leu"@eng-Latn ;
-    wdata:q7200235 "KH0302" ;
 .
 
 <urn:mdciii:1603:16:116:2:303>
@@ -1478,7 +1338,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:303" ;
     skos:prefLabel "Cheung Prey"@eng-Latn ;
-    wdata:q7200235 "KH0303" ;
 .
 
 <urn:mdciii:1603:16:116:2:305>
@@ -1487,7 +1346,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:305" ;
     skos:prefLabel "Kampong Cham"@eng-Latn ;
-    wdata:q7200235 "KH0305" ;
 .
 
 <urn:mdciii:1603:16:116:2:306>
@@ -1496,7 +1354,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:306" ;
     skos:prefLabel "Kampong Siem"@eng-Latn ;
-    wdata:q7200235 "KH0306" ;
 .
 
 <urn:mdciii:1603:16:116:2:307>
@@ -1505,7 +1362,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:307" ;
     skos:prefLabel "Kang Meas"@eng-Latn ;
-    wdata:q7200235 "KH0307" ;
 .
 
 <urn:mdciii:1603:16:116:2:308>
@@ -1514,7 +1370,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:308" ;
     skos:prefLabel "Kaoh Soutin"@eng-Latn ;
-    wdata:q7200235 "KH0308" ;
 .
 
 <urn:mdciii:1603:16:116:2:313>
@@ -1523,7 +1378,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:313" ;
     skos:prefLabel "Prey Chhor"@eng-Latn ;
-    wdata:q7200235 "KH0313" ;
 .
 
 <urn:mdciii:1603:16:116:2:314>
@@ -1532,7 +1386,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:314" ;
     skos:prefLabel "Srei Santhor"@eng-Latn ;
-    wdata:q7200235 "KH0314" ;
 .
 
 <urn:mdciii:1603:16:116:2:315>
@@ -1541,7 +1394,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:315" ;
     skos:prefLabel "Stueng Trang"@eng-Latn ;
-    wdata:q7200235 "KH0315" ;
 .
 
 <urn:mdciii:1603:16:116:2:401>
@@ -1550,7 +1402,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:401" ;
     skos:prefLabel "Baribour"@eng-Latn ;
-    wdata:q7200235 "KH0401" ;
 .
 
 <urn:mdciii:1603:16:116:2:402>
@@ -1559,7 +1410,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:402" ;
     skos:prefLabel "Chol Kiri"@eng-Latn ;
-    wdata:q7200235 "KH0402" ;
 .
 
 <urn:mdciii:1603:16:116:2:403>
@@ -1568,7 +1418,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:403" ;
     skos:prefLabel "Kampong Chhnang"@eng-Latn ;
-    wdata:q7200235 "KH0403" ;
 .
 
 <urn:mdciii:1603:16:116:2:404>
@@ -1577,7 +1426,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:404" ;
     skos:prefLabel "Kampong Leaeng"@eng-Latn ;
-    wdata:q7200235 "KH0404" ;
 .
 
 <urn:mdciii:1603:16:116:2:405>
@@ -1586,7 +1434,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:405" ;
     skos:prefLabel "Kampong Tralach"@eng-Latn ;
-    wdata:q7200235 "KH0405" ;
 .
 
 <urn:mdciii:1603:16:116:2:406>
@@ -1595,7 +1442,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:406" ;
     skos:prefLabel "Rolea B'ier"@eng-Latn ;
-    wdata:q7200235 "KH0406" ;
 .
 
 <urn:mdciii:1603:16:116:2:407>
@@ -1604,7 +1450,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:407" ;
     skos:prefLabel "Sameakki Mean Chey"@eng-Latn ;
-    wdata:q7200235 "KH0407" ;
 .
 
 <urn:mdciii:1603:16:116:2:408>
@@ -1613,7 +1458,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:408" ;
     skos:prefLabel "Tuek Phos"@eng-Latn ;
-    wdata:q7200235 "KH0408" ;
 .
 
 <urn:mdciii:1603:16:116:2:501>
@@ -1622,7 +1466,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:501" ;
     skos:prefLabel "Basedth"@eng-Latn ;
-    wdata:q7200235 "KH0501" ;
 .
 
 <urn:mdciii:1603:16:116:2:502>
@@ -1631,7 +1474,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:502" ;
     skos:prefLabel "Chbar Mon"@eng-Latn ;
-    wdata:q7200235 "KH0502" ;
 .
 
 <urn:mdciii:1603:16:116:2:503>
@@ -1640,7 +1482,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:503" ;
     skos:prefLabel "Kong Pisei"@eng-Latn ;
-    wdata:q7200235 "KH0503" ;
 .
 
 <urn:mdciii:1603:16:116:2:504>
@@ -1649,7 +1490,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:504" ;
     skos:prefLabel "Aoral"@eng-Latn ;
-    wdata:q7200235 "KH0504" ;
 .
 
 <urn:mdciii:1603:16:116:2:505>
@@ -1658,7 +1498,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:505" ;
     skos:prefLabel "Odongk"@eng-Latn ;
-    wdata:q7200235 "KH0505" ;
 .
 
 <urn:mdciii:1603:16:116:2:506>
@@ -1667,7 +1506,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:506" ;
     skos:prefLabel "Phnum Sruoch"@eng-Latn ;
-    wdata:q7200235 "KH0506" ;
 .
 
 <urn:mdciii:1603:16:116:2:507>
@@ -1676,7 +1514,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:507" ;
     skos:prefLabel "Samraong Tong"@eng-Latn ;
-    wdata:q7200235 "KH0507" ;
 .
 
 <urn:mdciii:1603:16:116:2:508>
@@ -1685,7 +1522,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:508" ;
     skos:prefLabel "Thpong"@eng-Latn ;
-    wdata:q7200235 "KH0508" ;
 .
 
 <urn:mdciii:1603:16:116:2:601>
@@ -1694,7 +1530,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:601" ;
     skos:prefLabel "Baray"@eng-Latn ;
-    wdata:q7200235 "KH0601" ;
 .
 
 <urn:mdciii:1603:16:116:2:602>
@@ -1703,7 +1538,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:602" ;
     skos:prefLabel "Kampong Svay"@eng-Latn ;
-    wdata:q7200235 "KH0602" ;
 .
 
 <urn:mdciii:1603:16:116:2:603>
@@ -1712,7 +1546,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:603" ;
     skos:prefLabel "Stueng Saen"@eng-Latn ;
-    wdata:q7200235 "KH0603" ;
 .
 
 <urn:mdciii:1603:16:116:2:604>
@@ -1721,7 +1554,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:604" ;
     skos:prefLabel "Prasat Ballangk"@eng-Latn ;
-    wdata:q7200235 "KH0604" ;
 .
 
 <urn:mdciii:1603:16:116:2:605>
@@ -1730,7 +1562,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:605" ;
     skos:prefLabel "Prasat Sambour"@eng-Latn ;
-    wdata:q7200235 "KH0605" ;
 .
 
 <urn:mdciii:1603:16:116:2:606>
@@ -1739,7 +1570,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:606" ;
     skos:prefLabel "Sandan"@eng-Latn ;
-    wdata:q7200235 "KH0606" ;
 .
 
 <urn:mdciii:1603:16:116:2:607>
@@ -1748,7 +1578,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:607" ;
     skos:prefLabel "Santuk"@eng-Latn ;
-    wdata:q7200235 "KH0607" ;
 .
 
 <urn:mdciii:1603:16:116:2:608>
@@ -1757,7 +1586,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:608" ;
     skos:prefLabel "Stoung"@eng-Latn ;
-    wdata:q7200235 "KH0608" ;
 .
 
 <urn:mdciii:1603:16:116:2:701>
@@ -1766,7 +1594,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:701" ;
     skos:prefLabel "Angkor Chey"@eng-Latn ;
-    wdata:q7200235 "KH0701" ;
 .
 
 <urn:mdciii:1603:16:116:2:702>
@@ -1775,7 +1602,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:702" ;
     skos:prefLabel "Banteay Meas"@eng-Latn ;
-    wdata:q7200235 "KH0702" ;
 .
 
 <urn:mdciii:1603:16:116:2:703>
@@ -1784,7 +1610,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:703" ;
     skos:prefLabel "Chhuk"@eng-Latn ;
-    wdata:q7200235 "KH0703" ;
 .
 
 <urn:mdciii:1603:16:116:2:704>
@@ -1793,7 +1618,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:704" ;
     skos:prefLabel "Chum Kiri"@eng-Latn ;
-    wdata:q7200235 "KH0704" ;
 .
 
 <urn:mdciii:1603:16:116:2:705>
@@ -1802,7 +1626,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:705" ;
     skos:prefLabel "Dang Tong"@eng-Latn ;
-    wdata:q7200235 "KH0705" ;
 .
 
 <urn:mdciii:1603:16:116:2:706>
@@ -1811,7 +1634,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:706" ;
     skos:prefLabel "Kampong Trach"@eng-Latn ;
-    wdata:q7200235 "KH0706" ;
 .
 
 <urn:mdciii:1603:16:116:2:707>
@@ -1820,7 +1642,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:707" ;
     skos:prefLabel "Tuek Chhou"@eng-Latn ;
-    wdata:q7200235 "KH0707" ;
 .
 
 <urn:mdciii:1603:16:116:2:708>
@@ -1829,7 +1650,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:708" ;
     skos:prefLabel "Kampot"@eng-Latn ;
-    wdata:q7200235 "KH0708" ;
 .
 
 <urn:mdciii:1603:16:116:2:801>
@@ -1838,7 +1658,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:801" ;
     skos:prefLabel "Kandal Stueng"@eng-Latn ;
-    wdata:q7200235 "KH0801" ;
 .
 
 <urn:mdciii:1603:16:116:2:802>
@@ -1847,7 +1666,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:802" ;
     skos:prefLabel "Kien Svay"@eng-Latn ;
-    wdata:q7200235 "KH0802" ;
 .
 
 <urn:mdciii:1603:16:116:2:803>
@@ -1856,7 +1674,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:803" ;
     skos:prefLabel "Khsach Kandal"@eng-Latn ;
-    wdata:q7200235 "KH0803" ;
 .
 
 <urn:mdciii:1603:16:116:2:804>
@@ -1865,7 +1682,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:804" ;
     skos:prefLabel "Kaoh Thum"@eng-Latn ;
-    wdata:q7200235 "KH0804" ;
 .
 
 <urn:mdciii:1603:16:116:2:805>
@@ -1874,7 +1690,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:805" ;
     skos:prefLabel "Leuk Daek"@eng-Latn ;
-    wdata:q7200235 "KH0805" ;
 .
 
 <urn:mdciii:1603:16:116:2:806>
@@ -1883,7 +1698,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:806" ;
     skos:prefLabel "Lvea Aem"@eng-Latn ;
-    wdata:q7200235 "KH0806" ;
 .
 
 <urn:mdciii:1603:16:116:2:807>
@@ -1892,7 +1706,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:807" ;
     skos:prefLabel "Mukh Kampul"@eng-Latn ;
-    wdata:q7200235 "KH0807" ;
 .
 
 <urn:mdciii:1603:16:116:2:808>
@@ -1901,7 +1714,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:808" ;
     skos:prefLabel "Angk Snuol"@eng-Latn ;
-    wdata:q7200235 "KH0808" ;
 .
 
 <urn:mdciii:1603:16:116:2:809>
@@ -1910,7 +1722,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:809" ;
     skos:prefLabel "Ponhea Lueu"@eng-Latn ;
-    wdata:q7200235 "KH0809" ;
 .
 
 <urn:mdciii:1603:16:116:2:810>
@@ -1919,7 +1730,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:810" ;
     skos:prefLabel "S'ang"@eng-Latn ;
-    wdata:q7200235 "KH0810" ;
 .
 
 <urn:mdciii:1603:16:116:2:811>
@@ -1928,7 +1738,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:811" ;
     skos:prefLabel "Ta Khmau"@eng-Latn ;
-    wdata:q7200235 "KH0811" ;
 .
 
 <urn:mdciii:1603:16:116:2:901>
@@ -1937,7 +1746,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:901" ;
     skos:prefLabel "Botum Sakor"@eng-Latn ;
-    wdata:q7200235 "KH0901" ;
 .
 
 <urn:mdciii:1603:16:116:2:902>
@@ -1946,7 +1754,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:902" ;
     skos:prefLabel "Kiri Sakor"@eng-Latn ;
-    wdata:q7200235 "KH0902" ;
 .
 
 <urn:mdciii:1603:16:116:2:903>
@@ -1955,7 +1762,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:903" ;
     skos:prefLabel "Kaoh Kong"@eng-Latn ;
-    wdata:q7200235 "KH0903" ;
 .
 
 <urn:mdciii:1603:16:116:2:904>
@@ -1964,7 +1770,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:904" ;
     skos:prefLabel "Khemara Phoumin"@eng-Latn ;
-    wdata:q7200235 "KH0904" ;
 .
 
 <urn:mdciii:1603:16:116:2:905>
@@ -1973,7 +1778,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:905" ;
     skos:prefLabel "Mondol Seima"@eng-Latn ;
-    wdata:q7200235 "KH0905" ;
 .
 
 <urn:mdciii:1603:16:116:2:906>
@@ -1982,7 +1786,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:906" ;
     skos:prefLabel "Srae Ambel"@eng-Latn ;
-    wdata:q7200235 "KH0906" ;
 .
 
 <urn:mdciii:1603:16:116:2:907>
@@ -1991,6 +1794,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:116:2:907" ;
     skos:prefLabel "Thma Bang"@eng-Latn ;
-    wdata:q7200235 "KH0907" ;
 .
 
